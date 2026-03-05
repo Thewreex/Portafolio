@@ -1,5 +1,5 @@
 <template>
-    <div class="header-nav px-5 gap-5 d-flex align-items-center justify-content-between mx-auto mt-4 bg-primary">
+    <div class="sticky-top header-nav px-5 gap-5 d-flex align-items-center justify-content-between mx-auto bg-primary">
         <div class="d-flex gap-5">
             <font-awesome-icon icon="user" class="icono-header" />
             <font-awesome-icon icon="folder" class="icono-header" />
@@ -28,5 +28,6 @@
     width: 50vw;
     height: 65px;
     border-radius: 100px;
+    top: 1.5rem
 }
 </style>
