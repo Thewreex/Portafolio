@@ -1,11 +1,13 @@
 <template>
   <appHeader id="appHeader" />
   <heroSection id="heroSection" />
+  <carrusel />
 </template>
 
 <script setup>
 import appHeader from './components/appHeader.vue';
 import heroSection from './components/heroSection.vue';
+import carrusel from './components/carrusel.vue';
 </script>
 
 
