@@ -14,6 +14,7 @@ import {
   faFolder,
   faScrewdriverWrench,
   faFile,
+  faSuitcase,
 } from "@fortawesome/free-solid-svg-icons";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
@@ -26,6 +27,7 @@ library.add(
   faGithub,
   faLinkedin,
   faFile,
+  faSuitcase,
 );
 
 const app = createApp(App);
