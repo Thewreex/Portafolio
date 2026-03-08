@@ -3,6 +3,7 @@
   <heroSection id="heroSection" />
   <carrusel />
   <sobreMi />
+  <proyectos />
 </template>
 
 <script setup>
@@ -10,6 +11,7 @@ import appHeader from './components/appHeader.vue';
 import heroSection from './components/heroSection.vue';
 import carrusel from './components/carrusel.vue';
 import sobreMi from './components/sobreMi.vue';
+import proyectos from './components/proyectos.vue';
 </script>
 
 
