@@ -4,6 +4,7 @@
   <carrusel />
   <sobreMi />
   <proyectos />
+  <tecnologias />
 </template>
 
 <script setup>
@@ -12,6 +13,7 @@ import heroSection from './components/heroSection.vue';
 import carrusel from './components/carrusel.vue';
 import sobreMi from './components/sobreMi.vue';
 import proyectos from './components/proyectos.vue';
+import tecnologias from './components/tecnologias.vue';
 </script>
 
 
