@@ -5,6 +5,7 @@
   <sobreMi />
   <proyectos />
   <tecnologias />
+  <Contacto />
 </template>
 
 <script setup>
@@ -14,6 +15,7 @@ import carrusel from './components/carrusel.vue';
 import sobreMi from './components/sobreMi.vue';
 import proyectos from './components/proyectos.vue';
 import tecnologias from './components/tecnologias.vue';
+import Contacto from './components/contacto.vue';
 </script>
 
 
