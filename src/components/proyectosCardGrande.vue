@@ -7,7 +7,7 @@
             <button>Ver mas</button>
         </div>
         <div>
-            <img src="https://placehold.co/310x310" alt="">
+            <img class="rounded-end" src="https://placehold.co/310x310" alt="">
         </div>
     </div>
 </template>

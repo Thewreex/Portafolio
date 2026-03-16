@@ -2,10 +2,10 @@
   <appHeader id="appHeader" />
   <heroSection id="heroSection" />
   <carrusel />
-  <sobreMi />
-  <proyectos />
-  <tecnologias />
-  <Contacto />
+  <!-- <sobreMi /> -->
+  <!-- <proyectos /> -->
+  <!-- <tecnologias /> -->
+  <!-- <Contacto /> -->
 </template>
 
 <script setup>
