@@ -1,0 +1,5 @@
+@mixin linea($grosor) {
+    height: $grosor;
+    flex: 1;
+    background-color: black;
+}

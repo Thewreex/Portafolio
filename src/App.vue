@@ -1,8 +1,8 @@
 <template>
   <appHeader id="appHeader" />
   <heroSection id="heroSection" />
-  <carrusel />
-  <!-- <sobreMi /> -->
+  <!-- <carrusel /> -->
+  <sobreMi />
   <!-- <proyectos /> -->
   <!-- <tecnologias /> -->
   <!-- <Contacto /> -->

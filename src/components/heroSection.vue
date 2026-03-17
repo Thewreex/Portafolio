@@ -36,6 +36,7 @@
 
 <style scoped lang="scss">
 @use "@/assets/styles/utils/variables" as *;
+@use "@/assets/styles/utils/mixins" as *;
 
 .circulo {
     width: 20px;
@@ -60,8 +61,6 @@
 }
 
 .linea {
-    height: 1px;
-    flex: 1;
-    background-color: black;
+    @include linea(1px)
 }
 </style>
