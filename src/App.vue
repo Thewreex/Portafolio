@@ -1,9 +1,9 @@
 <template>
-  <appHeader id="appHeader" />
+  <!-- <appHeader id="appHeader" /> -->
   <heroSection id="heroSection" />
   <!-- <carrusel /> -->
   <sobreMi />
-  <!-- <proyectos /> -->
+  <proyectos />
   <!-- <tecnologias /> -->
   <!-- <Contacto /> -->
 </template>
