@@ -4,7 +4,7 @@
   <!-- <carrusel /> -->
   <sobreMi />
   <proyectos />
-  <!-- <tecnologias /> -->
+  <tecnologias />
   <!-- <Contacto /> -->
 </template>
 
